@@ -1,0 +1,3 @@
+# Ilkrepository
+
+- Deneme yapiyorum
